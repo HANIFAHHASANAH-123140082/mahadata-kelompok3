@@ -1,7 +1,7 @@
 # Eksplorasi dan Pembersihan Data Ulasan Tokopedia
 ## Kelompok 3
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HANIFAHHASANAH-123140082/mahadata-kelompok3/blob/main/Kelompok3_Mahadata.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QxrtuXzKMSk_D5Nzf4d-4hwh4JSzuwo3?usp=sharing/blob/main/Kelompok3_Mahadata.ipynb)
 
 **Mata kuliah:** Mahadata (Big Data)
 
